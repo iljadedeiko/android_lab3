@@ -1,5 +1,9 @@
 <resources>
     <string name="app_name">labdarbas3</string>
     <string name="copyright_text">Ilja Dedeiko MKDf-18/4</string>
+    <string name="email_to">To</string>
+    <string name="email_subject">Subject</string>
+    <string name="email_message">Message</string>
+    <string name="email_send">Send</string>
 
 </resources>
